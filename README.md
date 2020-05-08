@@ -7,6 +7,8 @@ Within the documents uploaded, only one file was edited: ContentView.swift. This
 
 Additionally, the jpg and the swift image were both added by me. The jpg needed to be uploaded by itself, then converted into a swift object in order for it to be implemented in the main ContentView document.
 
+Of the other files, AppDelegate and SceneDelegate are used to handle special UI Application states, which I did not play with in this project but can be used in more advanced app creation. The LaunchScreen.storyboard is a preview of the bootup screen of the app, which by default is blank. The Assets folder is where images and other objects that one wishes to call in other files are stored, and the info.plist is a quick cheat sheet of info regarding the settings of that app. 
+
 # Instructions
 In order to run this program, one simply has to hit the "play" icon at the top of Swift and open it in an iPhone simulator, or view the preview in the Swift window.
 

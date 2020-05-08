@@ -10,4 +10,4 @@ Additionally, the jpg and the swift image were both added by me. The jpg needed 
 # Instructions
 In order to run this program, one simply has to hit the "play" icon at the top of Swift and open it in an iPhone simulator, or view the preview in the Swift window.
 
-![Image of running screenshot](https://ogithub.com/jgart20/SkeleSchedule/skelly.png)
+![Image of running screenshot](https://github.com/jgart20/SkeleSchedule/blob/master/skelly.png)
